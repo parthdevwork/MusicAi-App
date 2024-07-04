@@ -1,0 +1,183 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.musicai"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="21"
+9        android:targetSdkVersion="31" />
+10
+11    <uses-permission android:name="android.permission.SYSTEM_ALERT_WINDOW" />
+11-->/Users/imac/Desktop/musicAI/Archive/android/app/src/debug/AndroidManifest.xml:5:5-77
+11-->/Users/imac/Desktop/musicAI/Archive/android/app/src/debug/AndroidManifest.xml:5:22-75
+12    <uses-permission android:name="android.permission.INTERNET" />
+12-->/Users/imac/Desktop/musicAI/Archive/android/app/src/main/AndroidManifest.xml:4:5-67
+12-->/Users/imac/Desktop/musicAI/Archive/android/app/src/main/AndroidManifest.xml:4:22-64
+13    <uses-permission android:name="android.permission.CAMERA" />
+13-->/Users/imac/Desktop/musicAI/Archive/android/app/src/main/AndroidManifest.xml:5:5-64
+13-->/Users/imac/Desktop/musicAI/Archive/android/app/src/main/AndroidManifest.xml:5:22-62
+14    <uses-permission android:name="android.permission.RECORD_AUDIO" />
+14-->/Users/imac/Desktop/musicAI/Archive/android/app/src/main/AndroidManifest.xml:6:5-71
+14-->/Users/imac/Desktop/musicAI/Archive/android/app/src/main/AndroidManifest.xml:6:22-68
+15    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+15-->/Users/imac/Desktop/musicAI/Archive/android/app/src/main/AndroidManifest.xml:7:5-81
+15-->/Users/imac/Desktop/musicAI/Archive/android/app/src/main/AndroidManifest.xml:7:22-78
+16    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+16-->/Users/imac/Desktop/musicAI/Archive/android/app/src/main/AndroidManifest.xml:8:5-80
+16-->/Users/imac/Desktop/musicAI/Archive/android/app/src/main/AndroidManifest.xml:8:22-77
+17    <uses-permission android:name="android.permission.DOWNLOAD_WITHOUT_NOTIFICATION" />
+17-->/Users/imac/Desktop/musicAI/Archive/android/app/src/main/AndroidManifest.xml:9:5-88
+17-->/Users/imac/Desktop/musicAI/Archive/android/app/src/main/AndroidManifest.xml:9:22-85
+18    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+18-->[com.facebook.flipper:flipper:0.125.0] /Users/imac/.gradle/caches/transforms-3/3cae4f4d1d32c35168813ad3c7c8d8d3/transformed/jetified-flipper-0.125.0/AndroidManifest.xml:16:5-76
+18-->[com.facebook.flipper:flipper:0.125.0] /Users/imac/.gradle/caches/transforms-3/3cae4f4d1d32c35168813ad3c7c8d8d3/transformed/jetified-flipper-0.125.0/AndroidManifest.xml:16:22-73
+19
+20    <queries>
+20-->[:react-native-image-crop-picker] /Users/imac/Desktop/musicAI/Archive/node_modules/react-native-image-crop-picker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:9:5-13:15
+21        <intent>
+21-->[:react-native-image-crop-picker] /Users/imac/Desktop/musicAI/Archive/node_modules/react-native-image-crop-picker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:10:9-12:18
+22            <action android:name="android.media.action.IMAGE_CAPTURE" />
+22-->[:react-native-image-crop-picker] /Users/imac/Desktop/musicAI/Archive/node_modules/react-native-image-crop-picker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:11:13-73
+22-->[:react-native-image-crop-picker] /Users/imac/Desktop/musicAI/Archive/node_modules/react-native-image-crop-picker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:11:21-70
+23        </intent>
+24    </queries> <!-- Required to access Google Play Licensing -->
+25    <uses-permission android:name="com.android.vending.CHECK_LICENSE" />
+25-->[:rn-fetch-blob] /Users/imac/Desktop/musicAI/Archive/node_modules/rn-fetch-blob/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:10:5-73
+25-->[:rn-fetch-blob] /Users/imac/Desktop/musicAI/Archive/node_modules/rn-fetch-blob/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:10:22-70
+26    <!--
+27         Required to keep CPU alive while downloading files
+28        (NOT to keep screen awake)
+29    -->
+30    <uses-permission android:name="android.permission.WAKE_LOCK" />
+30-->[:rn-fetch-blob] /Users/imac/Desktop/musicAI/Archive/node_modules/rn-fetch-blob/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:19:5-68
+30-->[:rn-fetch-blob] /Users/imac/Desktop/musicAI/Archive/node_modules/rn-fetch-blob/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:19:22-65
+31    <!--
+32         Required to poll the state of the network connection
+33        and respond to changes
+34    -->
+35    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+35-->[:rn-fetch-blob] /Users/imac/Desktop/musicAI/Archive/node_modules/rn-fetch-blob/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:25:5-79
+35-->[:rn-fetch-blob] /Users/imac/Desktop/musicAI/Archive/node_modules/rn-fetch-blob/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:25:22-76
+36
+37    <application
+37-->/Users/imac/Desktop/musicAI/Archive/android/app/src/main/AndroidManifest.xml:12:5-32:19
+38        android:name="com.musicai.MainApplication"
+38-->/Users/imac/Desktop/musicAI/Archive/android/app/src/main/AndroidManifest.xml:13:7-38
+39        android:allowBackup="false"
+39-->/Users/imac/Desktop/musicAI/Archive/android/app/src/main/AndroidManifest.xml:17:7-34
+40        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+40-->[androidx.core:core:1.7.0] /Users/imac/.gradle/caches/transforms-3/cc5de6a82a9cae3e9587660fa90655cc/transformed/core-1.7.0/AndroidManifest.xml:24:18-86
+41        android:debuggable="true"
+42        android:icon="@mipmap/ic_launcher"
+42-->/Users/imac/Desktop/musicAI/Archive/android/app/src/main/AndroidManifest.xml:15:7-41
+43        android:label="@string/app_name"
+43-->/Users/imac/Desktop/musicAI/Archive/android/app/src/main/AndroidManifest.xml:14:7-39
+44        android:roundIcon="@mipmap/ic_launcher_round"
+44-->/Users/imac/Desktop/musicAI/Archive/android/app/src/main/AndroidManifest.xml:16:7-52
+45        android:theme="@style/AppTheme"
+45-->/Users/imac/Desktop/musicAI/Archive/android/app/src/main/AndroidManifest.xml:18:7-38
+46        android:usesCleartextTraffic="true" >
+46-->/Users/imac/Desktop/musicAI/Archive/android/app/src/debug/AndroidManifest.xml:8:9-44
+47        <activity
+47-->/Users/imac/Desktop/musicAI/Archive/android/app/src/debug/AndroidManifest.xml:11:9-111
+48            android:name="com.facebook.react.devsupport.DevSettingsActivity"
+48-->/Users/imac/Desktop/musicAI/Archive/android/app/src/debug/AndroidManifest.xml:11:19-83
+49            android:exported="false" />
+49-->/Users/imac/Desktop/musicAI/Archive/android/app/src/debug/AndroidManifest.xml:11:84-108
+50        <activity
+50-->/Users/imac/Desktop/musicAI/Archive/android/app/src/main/AndroidManifest.xml:19:7-31:18
+51            android:name="com.musicai.MainActivity"
+51-->/Users/imac/Desktop/musicAI/Archive/android/app/src/main/AndroidManifest.xml:20:9-37
+52            android:configChanges="keyboard|keyboardHidden|orientation|screenLayout|screenSize|smallestScreenSize|uiMode"
+52-->/Users/imac/Desktop/musicAI/Archive/android/app/src/main/AndroidManifest.xml:22:9-118
+53            android:exported="true"
+53-->/Users/imac/Desktop/musicAI/Archive/android/app/src/main/AndroidManifest.xml:25:9-32
+54            android:label="@string/app_name"
+54-->/Users/imac/Desktop/musicAI/Archive/android/app/src/main/AndroidManifest.xml:21:9-41
+55            android:launchMode="singleTask"
+55-->/Users/imac/Desktop/musicAI/Archive/android/app/src/main/AndroidManifest.xml:23:9-40
+56            android:windowSoftInputMode="adjustResize" >
+56-->/Users/imac/Desktop/musicAI/Archive/android/app/src/main/AndroidManifest.xml:24:9-51
+57            <intent-filter>
+57-->/Users/imac/Desktop/musicAI/Archive/android/app/src/main/AndroidManifest.xml:26:9-30:25
+58                <action android:name="android.intent.action.MAIN" />
+58-->/Users/imac/Desktop/musicAI/Archive/android/app/src/main/AndroidManifest.xml:27:13-65
+58-->/Users/imac/Desktop/musicAI/Archive/android/app/src/main/AndroidManifest.xml:27:21-62
+59
+60                <category android:name="android.intent.category.LAUNCHER" />
+60-->/Users/imac/Desktop/musicAI/Archive/android/app/src/main/AndroidManifest.xml:28:13-73
+60-->/Users/imac/Desktop/musicAI/Archive/android/app/src/main/AndroidManifest.xml:28:23-70
+61
+62                <action android:name="android.intent.action.DOWNLOAD_COMPLETE" />
+62-->/Users/imac/Desktop/musicAI/Archive/android/app/src/main/AndroidManifest.xml:29:13-77
+62-->/Users/imac/Desktop/musicAI/Archive/android/app/src/main/AndroidManifest.xml:29:21-75
+63            </intent-filter>
+64        </activity>
+65
+66        <provider
+66-->[:react-native-image-crop-picker] /Users/imac/Desktop/musicAI/Archive/node_modules/react-native-image-crop-picker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:18:9-26:20
+67            android:name="com.reactnative.ivpusic.imagepicker.IvpusicImagePickerFileProvider"
+67-->[:react-native-image-crop-picker] /Users/imac/Desktop/musicAI/Archive/node_modules/react-native-image-crop-picker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:19:13-94
+68            android:authorities="com.musicai.provider"
+68-->[:react-native-image-crop-picker] /Users/imac/Desktop/musicAI/Archive/node_modules/react-native-image-crop-picker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:20:13-60
+69            android:exported="false"
+69-->[:react-native-image-crop-picker] /Users/imac/Desktop/musicAI/Archive/node_modules/react-native-image-crop-picker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:21:13-37
+70            android:grantUriPermissions="true" >
+70-->[:react-native-image-crop-picker] /Users/imac/Desktop/musicAI/Archive/node_modules/react-native-image-crop-picker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:22:13-47
+71            <meta-data
+71-->[:react-native-image-crop-picker] /Users/imac/Desktop/musicAI/Archive/node_modules/react-native-image-crop-picker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:23:13-25:78
+72                android:name="android.support.FILE_PROVIDER_PATHS"
+72-->[:react-native-image-crop-picker] /Users/imac/Desktop/musicAI/Archive/node_modules/react-native-image-crop-picker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:24:17-67
+73                android:resource="@xml/ivpusic_imagepicker_provider_paths" />
+73-->[:react-native-image-crop-picker] /Users/imac/Desktop/musicAI/Archive/node_modules/react-native-image-crop-picker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:25:17-75
+74        </provider>
+75
+76        <activity
+76-->[:react-native-image-crop-picker] /Users/imac/Desktop/musicAI/Archive/node_modules/react-native-image-crop-picker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:28:9-30:72
+77            android:name="com.yalantis.ucrop.UCropActivity"
+77-->[:react-native-image-crop-picker] /Users/imac/Desktop/musicAI/Archive/node_modules/react-native-image-crop-picker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:29:13-60
+78            android:theme="@style/Theme.AppCompat.Light.NoActionBar" />
+78-->[:react-native-image-crop-picker] /Users/imac/Desktop/musicAI/Archive/node_modules/react-native-image-crop-picker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:30:13-69
+79
+80        <provider
+80-->[:rn-fetch-blob] /Users/imac/Desktop/musicAI/Archive/node_modules/rn-fetch-blob/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:34:9-42:20
+81            android:name="com.RNFetchBlob.Utils.FileProvider"
+81-->[:rn-fetch-blob] /Users/imac/Desktop/musicAI/Archive/node_modules/rn-fetch-blob/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:35:13-62
+82            android:authorities="com.musicai.provider"
+82-->[:rn-fetch-blob] /Users/imac/Desktop/musicAI/Archive/node_modules/rn-fetch-blob/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:36:13-60
+83            android:exported="false"
+83-->[:rn-fetch-blob] /Users/imac/Desktop/musicAI/Archive/node_modules/rn-fetch-blob/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:37:13-37
+84            android:grantUriPermissions="true" >
+84-->[:rn-fetch-blob] /Users/imac/Desktop/musicAI/Archive/node_modules/rn-fetch-blob/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:38:13-47
+85            <meta-data
+85-->[:react-native-image-crop-picker] /Users/imac/Desktop/musicAI/Archive/node_modules/react-native-image-crop-picker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:23:13-25:78
+86                android:name="android.support.FILE_PROVIDER_PATHS"
+86-->[:react-native-image-crop-picker] /Users/imac/Desktop/musicAI/Archive/node_modules/react-native-image-crop-picker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:24:17-67
+87                android:resource="@xml/provider_paths" />
+87-->[:react-native-image-crop-picker] /Users/imac/Desktop/musicAI/Archive/node_modules/react-native-image-crop-picker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:25:17-75
+88        </provider>
+89        <provider
+89-->[androidx.emoji2:emoji2:1.0.0] /Users/imac/.gradle/caches/transforms-3/95c9bb337580e6d78e99356932af2fd5/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:26:9-34:20
+90            android:name="androidx.startup.InitializationProvider"
+90-->[androidx.emoji2:emoji2:1.0.0] /Users/imac/.gradle/caches/transforms-3/95c9bb337580e6d78e99356932af2fd5/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:27:13-67
+91            android:authorities="com.musicai.androidx-startup"
+91-->[androidx.emoji2:emoji2:1.0.0] /Users/imac/.gradle/caches/transforms-3/95c9bb337580e6d78e99356932af2fd5/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:28:13-68
+92            android:exported="false" >
+92-->[androidx.emoji2:emoji2:1.0.0] /Users/imac/.gradle/caches/transforms-3/95c9bb337580e6d78e99356932af2fd5/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:29:13-37
+93            <meta-data
+93-->[androidx.emoji2:emoji2:1.0.0] /Users/imac/.gradle/caches/transforms-3/95c9bb337580e6d78e99356932af2fd5/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:31:13-33:52
+94                android:name="androidx.emoji2.text.EmojiCompatInitializer"
+94-->[androidx.emoji2:emoji2:1.0.0] /Users/imac/.gradle/caches/transforms-3/95c9bb337580e6d78e99356932af2fd5/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:32:17-75
+95                android:value="androidx.startup" />
+95-->[androidx.emoji2:emoji2:1.0.0] /Users/imac/.gradle/caches/transforms-3/95c9bb337580e6d78e99356932af2fd5/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:33:17-49
+96            <meta-data
+96-->[androidx.lifecycle:lifecycle-process:2.4.0] /Users/imac/.gradle/caches/transforms-3/df0f814cac4e24b0c09772baa9bf2c32/transformed/jetified-lifecycle-process-2.4.0/AndroidManifest.xml:31:13-33:52
+97                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
+97-->[androidx.lifecycle:lifecycle-process:2.4.0] /Users/imac/.gradle/caches/transforms-3/df0f814cac4e24b0c09772baa9bf2c32/transformed/jetified-lifecycle-process-2.4.0/AndroidManifest.xml:32:17-78
+98                android:value="androidx.startup" />
+98-->[androidx.lifecycle:lifecycle-process:2.4.0] /Users/imac/.gradle/caches/transforms-3/df0f814cac4e24b0c09772baa9bf2c32/transformed/jetified-lifecycle-process-2.4.0/AndroidManifest.xml:33:17-49
+99        </provider>
+100    </application>
+101
+102</manifest>

@@ -1,0 +1,13 @@
+current directory: /Users/imac/Desktop/musicai_app/vendor/bundle/ruby/2.7.0/gems/json-2.6.3/ext/json
+/Users/imac/.rvm/rubies/ruby-2.7.5/bin/ruby -I /Users/imac/.rvm/rubies/ruby-2.7.5/lib/ruby/2.7.0 -r ./siteconf20221205-7868-q1jnoe.rb extconf.rb
+creating Makefile
+
+current directory: /Users/imac/Desktop/musicai_app/vendor/bundle/ruby/2.7.0/gems/json-2.6.3/ext/json
+make "DESTDIR=" clean
+
+current directory: /Users/imac/Desktop/musicai_app/vendor/bundle/ruby/2.7.0/gems/json-2.6.3/ext/json
+make "DESTDIR="
+make: Nothing to be done for `all'.
+
+current directory: /Users/imac/Desktop/musicai_app/vendor/bundle/ruby/2.7.0/gems/json-2.6.3/ext/json
+make "DESTDIR=" install
