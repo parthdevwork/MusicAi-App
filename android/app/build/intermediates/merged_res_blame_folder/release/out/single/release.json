@@ -1,0 +1,270 @@
+[
+    {
+        "merged": "com.musicai.app-merged_res-31:/drawable-mdpi_assets_images_mozart.png.flat",
+        "source": "com.musicai.app-react-26:/drawable-mdpi/assets_images_mozart.png"
+    },
+    {
+        "merged": "com.musicai.app-merged_res-31:/drawable-mdpi_assets_images_active_line.png.flat",
+        "source": "com.musicai.app-react-26:/drawable-mdpi/assets_images_active_line.png"
+    },
+    {
+        "merged": "com.musicai.app-merged_res-31:/drawable-mdpi_assets_images_arrowbackword.png.flat",
+        "source": "com.musicai.app-react-26:/drawable-mdpi/assets_images_arrowbackword.png"
+    },
+    {
+        "merged": "com.musicai.app-merged_res-31:/drawable_rn_edit_text_material.xml.flat",
+        "source": "com.musicai.app-main-32:/drawable/rn_edit_text_material.xml"
+    },
+    {
+        "merged": "com.musicai.app-merged_res-31:/drawable-mdpi_assets_images_scannow.png.flat",
+        "source": "com.musicai.app-react-26:/drawable-mdpi/assets_images_scannow.png"
+    },
+    {
+        "merged": "com.musicai.app-merged_res-31:/drawable-mdpi_assets_images_note.png.flat",
+        "source": "com.musicai.app-react-26:/drawable-mdpi/assets_images_note.png"
+    },
+    {
+        "merged": "com.musicai.app-merged_res-31:/drawable-mdpi_node_modules_reactnativeratings_dist_images_heart.png.flat",
+        "source": "com.musicai.app-react-26:/drawable-mdpi/node_modules_reactnativeratings_dist_images_heart.png"
+    },
+    {
+        "merged": "com.musicai.app-merged_res-31:/drawable-mdpi_node_modules_reactnativeratings_dist_images_rocket.png.flat",
+        "source": "com.musicai.app-react-26:/drawable-mdpi/node_modules_reactnativeratings_dist_images_rocket.png"
+    },
+    {
+        "merged": "com.musicai.app-merged_res-31:/drawable-mdpi_assets_images_importnow.png.flat",
+        "source": "com.musicai.app-react-26:/drawable-mdpi/assets_images_importnow.png"
+    },
+    {
+        "merged": "com.musicai.app-merged_res-31:/drawable-mdpi_node_modules_reactnativeratings_dist_images_bell.png.flat",
+        "source": "com.musicai.app-react-26:/drawable-mdpi/node_modules_reactnativeratings_dist_images_bell.png"
+    },
+    {
+        "merged": "com.musicai.app-merged_res-31:/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "com.musicai.app-main-32:/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.musicai.app-merged_res-31:/drawable-mdpi_assets_images_previousexpertnote.png.flat",
+        "source": "com.musicai.app-react-26:/drawable-mdpi/assets_images_previousexpertnote.png"
+    },
+    {
+        "merged": "com.musicai.app-merged_res-31:/drawable-mdpi_assets_images_composer.png.flat",
+        "source": "com.musicai.app-react-26:/drawable-mdpi/assets_images_composer.png"
+    },
+    {
+        "merged": "com.musicai.app-merged_res-31:/drawable-mdpi_assets_images_todayexpertnote.png.flat",
+        "source": "com.musicai.app-react-26:/drawable-mdpi/assets_images_todayexpertnote.png"
+    },
+    {
+        "merged": "com.musicai.app-merged_res-31:/drawable-mdpi_assets_images_recording.png.flat",
+        "source": "com.musicai.app-react-26:/drawable-mdpi/assets_images_recording.png"
+    },
+    {
+        "merged": "com.musicai.app-merged_res-31:/drawable-mdpi_assets_images_play.png.flat",
+        "source": "com.musicai.app-react-26:/drawable-mdpi/assets_images_play.png"
+    },
+    {
+        "merged": "com.musicai.app-merged_res-31:/drawable-mdpi_assets_images_tuner_meter.png.flat",
+        "source": "com.musicai.app-react-26:/drawable-mdpi/assets_images_tuner_meter.png"
+    },
+    {
+        "merged": "com.musicai.app-merged_res-31:/drawable-xhdpi_node_modules_reactnavigation_elements_src_assets_backicon.png.flat",
+        "source": "com.musicai.app-react-26:/drawable-xhdpi/node_modules_reactnavigation_elements_src_assets_backicon.png"
+    },
+    {
+        "merged": "com.musicai.app-merged_res-31:/drawable-mdpi_assets_images_metronome_inactive.png.flat",
+        "source": "com.musicai.app-react-26:/drawable-mdpi/assets_images_metronome_inactive.png"
+    },
+    {
+        "merged": "com.musicai.app-merged_res-31:/mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "com.musicai.app-main-32:/mipmap-xhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.musicai.app-merged_res-31:/drawable-mdpi_assets_images_applogo.png.flat",
+        "source": "com.musicai.app-react-26:/drawable-mdpi/assets_images_applogo.png"
+    },
+    {
+        "merged": "com.musicai.app-merged_res-31:/drawable-mdpi_node_modules_reactnativeratings_dist_images_star.png.flat",
+        "source": "com.musicai.app-react-26:/drawable-mdpi/node_modules_reactnativeratings_dist_images_star.png"
+    },
+    {
+        "merged": "com.musicai.app-merged_res-31:/mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "com.musicai.app-main-32:/mipmap-mdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.musicai.app-merged_res-31:/drawable-mdpi_assets_images_playbutton.png.flat",
+        "source": "com.musicai.app-react-26:/drawable-mdpi/assets_images_playbutton.png"
+    },
+    {
+        "merged": "com.musicai.app-merged_res-31:/drawable-mdpi_assets_images_home_inactive.png.flat",
+        "source": "com.musicai.app-react-26:/drawable-mdpi/assets_images_home_inactive.png"
+    },
+    {
+        "merged": "com.musicai.app-merged_res-31:/drawable-mdpi_assets_images_dropdownarrow.png.flat",
+        "source": "com.musicai.app-react-26:/drawable-mdpi/assets_images_dropdownarrow.png"
+    },
+    {
+        "merged": "com.musicai.app-merged_res-31:/drawable-mdpi_assets_images_score.png.flat",
+        "source": "com.musicai.app-react-26:/drawable-mdpi/assets_images_score.png"
+    },
+    {
+        "merged": "com.musicai.app-merged_res-31:/drawable-mdpi_assets_images_logo.png.flat",
+        "source": "com.musicai.app-react-26:/drawable-mdpi/assets_images_logo.png"
+    },
+    {
+        "merged": "com.musicai.app-merged_res-31:/drawable-mdpi_assets_images_addmusic_bg.png.flat",
+        "source": "com.musicai.app-react-26:/drawable-mdpi/assets_images_addmusic_bg.png"
+    },
+    {
+        "merged": "com.musicai.app-merged_res-31:/drawable-mdpi_assets_images_seekbar.png.flat",
+        "source": "com.musicai.app-react-26:/drawable-mdpi/assets_images_seekbar.png"
+    },
+    {
+        "merged": "com.musicai.app-merged_res-31:/drawable-mdpi_assets_images_tonegenerator.png.flat",
+        "source": "com.musicai.app-react-26:/drawable-mdpi/assets_images_tonegenerator.png"
+    },
+    {
+        "merged": "com.musicai.app-merged_res-31:/drawable-mdpi_assets_images_arrowforword.png.flat",
+        "source": "com.musicai.app-react-26:/drawable-mdpi/assets_images_arrowforword.png"
+    },
+    {
+        "merged": "com.musicai.app-merged_res-31:/drawable-mdpi_assets_images_perform.png.flat",
+        "source": "com.musicai.app-react-26:/drawable-mdpi/assets_images_perform.png"
+    },
+    {
+        "merged": "com.musicai.app-merged_res-31:/drawable-mdpi_assets_images_tuner_inactive.png.flat",
+        "source": "com.musicai.app-react-26:/drawable-mdpi/assets_images_tuner_inactive.png"
+    },
+    {
+        "merged": "com.musicai.app-merged_res-31:/drawable-mdpi_node_modules_reactnativeratings_dist_images_airbnbstar.png.flat",
+        "source": "com.musicai.app-react-26:/drawable-mdpi/node_modules_reactnativeratings_dist_images_airbnbstar.png"
+    },
+    {
+        "merged": "com.musicai.app-merged_res-31:/drawable-mdpi_assets_images_scan.png.flat",
+        "source": "com.musicai.app-react-26:/drawable-mdpi/assets_images_scan.png"
+    },
+    {
+        "merged": "com.musicai.app-merged_res-31:/drawable-mdpi_assets_images_profile_active.png.flat",
+        "source": "com.musicai.app-react-26:/drawable-mdpi/assets_images_profile_active.png"
+    },
+    {
+        "merged": "com.musicai.app-merged_res-31:/drawable-mdpi_assets_images_next.png.flat",
+        "source": "com.musicai.app-react-26:/drawable-mdpi/assets_images_next.png"
+    },
+    {
+        "merged": "com.musicai.app-merged_res-31:/drawable-mdpi_assets_images_bg.jpeg.flat",
+        "source": "com.musicai.app-react-26:/drawable-mdpi/assets_images_bg.jpeg"
+    },
+    {
+        "merged": "com.musicai.app-merged_res-31:/drawable-mdpi_assets_images_palytrackcircle.png.flat",
+        "source": "com.musicai.app-react-26:/drawable-mdpi/assets_images_palytrackcircle.png"
+    },
+    {
+        "merged": "com.musicai.app-merged_res-31:/drawable-mdpi_node_modules_reactnativeratings_dist_images_airbnbstarselected.png.flat",
+        "source": "com.musicai.app-react-26:/drawable-mdpi/node_modules_reactnativeratings_dist_images_airbnbstarselected.png"
+    },
+    {
+        "merged": "com.musicai.app-merged_res-31:/mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "com.musicai.app-main-32:/mipmap-xxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.musicai.app-merged_res-31:/drawable-mdpi_node_modules_reactnavigation_elements_src_assets_backicon.png.flat",
+        "source": "com.musicai.app-react-26:/drawable-mdpi/node_modules_reactnavigation_elements_src_assets_backicon.png"
+    },
+    {
+        "merged": "com.musicai.app-merged_res-31:/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "com.musicai.app-main-32:/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.musicai.app-merged_res-31:/mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "com.musicai.app-main-32:/mipmap-xxxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.musicai.app-merged_res-31:/drawable-mdpi_assets_images_newton.png.flat",
+        "source": "com.musicai.app-react-26:/drawable-mdpi/assets_images_newton.png"
+    },
+    {
+        "merged": "com.musicai.app-merged_res-31:/drawable-mdpi_assets_images_genres.png.flat",
+        "source": "com.musicai.app-react-26:/drawable-mdpi/assets_images_genres.png"
+    },
+    {
+        "merged": "com.musicai.app-merged_res-31:/drawable-mdpi_assets_images_home_active.png.flat",
+        "source": "com.musicai.app-react-26:/drawable-mdpi/assets_images_home_active.png"
+    },
+    {
+        "merged": "com.musicai.app-merged_res-31:/drawable-mdpi_assets_images_scannote.png.flat",
+        "source": "com.musicai.app-react-26:/drawable-mdpi/assets_images_scannote.png"
+    },
+    {
+        "merged": "com.musicai.app-merged_res-31:/drawable-mdpi_assets_images_photo.png.flat",
+        "source": "com.musicai.app-react-26:/drawable-mdpi/assets_images_photo.png"
+    },
+    {
+        "merged": "com.musicai.app-merged_res-31:/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "com.musicai.app-main-32:/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.musicai.app-merged_res-31:/drawable-mdpi_assets_images_composerplay.png.flat",
+        "source": "com.musicai.app-react-26:/drawable-mdpi/assets_images_composerplay.png"
+    },
+    {
+        "merged": "com.musicai.app-merged_res-31:/mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "com.musicai.app-main-32:/mipmap-hdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.musicai.app-merged_res-31:/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "com.musicai.app-main-32:/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.musicai.app-merged_res-31:/drawable-mdpi_assets_images_metronome_active.png.flat",
+        "source": "com.musicai.app-react-26:/drawable-mdpi/assets_images_metronome_active.png"
+    },
+    {
+        "merged": "com.musicai.app-merged_res-31:/drawable-hdpi_node_modules_reactnavigation_elements_src_assets_backicon.png.flat",
+        "source": "com.musicai.app-react-26:/drawable-hdpi/node_modules_reactnavigation_elements_src_assets_backicon.png"
+    },
+    {
+        "merged": "com.musicai.app-merged_res-31:/drawable-mdpi_assets_images_sightread_bg.png.flat",
+        "source": "com.musicai.app-react-26:/drawable-mdpi/assets_images_sightread_bg.png"
+    },
+    {
+        "merged": "com.musicai.app-merged_res-31:/drawable-mdpi_assets_images_record.png.flat",
+        "source": "com.musicai.app-react-26:/drawable-mdpi/assets_images_record.png"
+    },
+    {
+        "merged": "com.musicai.app-merged_res-31:/drawable-mdpi_assets_images_musicnote.png.flat",
+        "source": "com.musicai.app-react-26:/drawable-mdpi/assets_images_musicnote.png"
+    },
+    {
+        "merged": "com.musicai.app-merged_res-31:/drawable-xxhdpi_node_modules_reactnavigation_elements_src_assets_backicon.png.flat",
+        "source": "com.musicai.app-react-26:/drawable-xxhdpi/node_modules_reactnavigation_elements_src_assets_backicon.png"
+    },
+    {
+        "merged": "com.musicai.app-merged_res-31:/drawable-xxxhdpi_node_modules_reactnavigation_elements_src_assets_backicon.png.flat",
+        "source": "com.musicai.app-react-26:/drawable-xxxhdpi/node_modules_reactnavigation_elements_src_assets_backicon.png"
+    },
+    {
+        "merged": "com.musicai.app-merged_res-31:/drawable-mdpi_assets_images_library_bg.png.flat",
+        "source": "com.musicai.app-react-26:/drawable-mdpi/assets_images_library_bg.png"
+    },
+    {
+        "merged": "com.musicai.app-merged_res-31:/drawable-mdpi_assets_images_tuner_active.png.flat",
+        "source": "com.musicai.app-react-26:/drawable-mdpi/assets_images_tuner_active.png"
+    },
+    {
+        "merged": "com.musicai.app-merged_res-31:/drawable-mdpi_node_modules_reactnavigation_elements_src_assets_backiconmask.png.flat",
+        "source": "com.musicai.app-react-26:/drawable-mdpi/node_modules_reactnavigation_elements_src_assets_backiconmask.png"
+    },
+    {
+        "merged": "com.musicai.app-merged_res-31:/drawable-mdpi_assets_images_profile_inactive.png.flat",
+        "source": "com.musicai.app-react-26:/drawable-mdpi/assets_images_profile_inactive.png"
+    },
+    {
+        "merged": "com.musicai.app-merged_res-31:/drawable-mdpi_node_modules_reactnativepaper_src_assets_backchevron.png.flat",
+        "source": "com.musicai.app-react-26:/drawable-mdpi/node_modules_reactnativepaper_src_assets_backchevron.png"
+    },
+    {
+        "merged": "com.musicai.app-merged_res-31:/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "com.musicai.app-main-32:/mipmap-xxxhdpi/ic_launcher.png"
+    }
+]

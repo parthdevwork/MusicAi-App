@@ -1,0 +1,6 @@
+module Pods_MusicAI {
+  umbrella header "Pods-MusicAI-umbrella.h"
+
+  export *
+  module * { export * }
+}
